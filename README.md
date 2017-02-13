@@ -1,1 +1,1 @@
-# Numerical Recipes - The Art of Scientific Computing
+# Numerical Recipes
